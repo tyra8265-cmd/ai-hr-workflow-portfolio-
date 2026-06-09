@@ -1,0 +1,172 @@
+# AI Automation Use Cases
+
+This file outlines practical AI automation use cases for HR, People Ops, recruiting, workforce operations, consultants, and small businesses.
+
+## 1. Recruiting Coordinator Bot
+
+### Problem
+
+Recruiters often manage too many candidate replies, scheduling messages, follow-ups, and status updates at once.
+
+Important replies can get missed.
+
+Sensitive questions may need escalation.
+
+Candidates may wait too long for a response.
+
+### Workflow Goal
+
+Help recruiters organize candidate communication while keeping humans in control.
+
+### What It Can Help With
+
+* Read candidate replies
+* Identify candidate intent
+* Detect scheduling availability
+* Draft recruiter responses
+* Flag sensitive topics
+* Update candidate tracker
+* Summarize daily activity
+
+### Human Review Required
+
+A human should review before:
+
+* Sending candidate messages
+* Rejecting candidates
+* Discussing compensation
+* Handling accommodations
+* Responding to legal or sensitive issues
+* Making any hiring decision
+
+---
+
+## 2. Job Search Workflow
+
+### Problem
+
+Job searches become messy quickly.
+
+Roles are saved in different places, applications are hard to track, and follow-up is easy to miss.
+
+### Workflow Goal
+
+Create a structured system for reviewing roles, preparing materials, and tracking job search activity.
+
+### What It Can Help With
+
+* Collect job postings
+* Score role fit
+* Draft value snapshots
+* Draft recruiter messages
+* Create interview prep notes
+* Track application status
+* Organize follow-up
+
+### Human Review Required
+
+A human should review before:
+
+* Applying to any role
+* Sending any message
+* Editing resume content
+* Using any generated career material
+
+---
+
+## 3. HR Policy Comparison Agent
+
+### Problem
+
+Policy updates are often hard to compare manually.
+
+Leaders need to know what changed, what matters, and what needs review.
+
+### Workflow Goal
+
+Compare an old policy to a new policy and create a clear summary of changes.
+
+### What It Can Help With
+
+* Identify changed language
+* Summarize major updates
+* Flag unclear language
+* Highlight employee impact
+* Highlight manager impact
+* Create review questions
+* Prepare a clean summary
+
+### Human Review Required
+
+A human should review before:
+
+* Publishing a policy
+* Giving legal guidance
+* Communicating policy changes
+* Making compliance decisions
+
+---
+
+## 4. People Ops Diagnostic Dashboard
+
+### Problem
+
+People problems often show up as isolated issues, but the root cause is usually part of a larger pattern.
+
+### Workflow Goal
+
+Help HR teams and consultants connect signals across people problems.
+
+### What It Can Help With
+
+* Categorize people problems
+* Track diagnostic questions
+* Connect KPIs to issues
+* Identify repeated patterns
+* Flag risk areas
+* Recommend follow-up steps
+* Track SOP needs
+
+### Example Problem Categories
+
+* Turnover
+* Burnout
+* Manager issues
+* Broken trust
+* Hiring delays
+* Low accountability
+* Policy confusion
+* Poor onboarding
+* Employee relations risk
+
+---
+
+## 5. Founder Command Center
+
+### Problem
+
+Founders and operators often have information spread across tools, calendars, CRM systems, emails, and task lists.
+
+### Workflow Goal
+
+Create a simple daily command center that shows what changed and what needs attention.
+
+### What It Can Help With
+
+* Daily business brief
+* Sales activity summary
+* Client follow-up tracking
+* Calendar preparation
+* Project blocker summary
+* Draft follow-up messages
+* Priority and risk flags
+
+### Human Review Required
+
+A human should review before:
+
+* Sending messages
+* Updating CRM records
+* Making client decisions
+* Changing project status
+* Taking financial action

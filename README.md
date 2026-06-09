@@ -48,5 +48,7 @@ These projects are shared at a high level for portfolio purposes. Sensitive data
 
 ## Contact
 
-LinkedIn: Add your LinkedIn link here  
-Email: tyra8265@gmail.com
+LinkedIn:www.linkedin.com/in/tyrarobinson
+
+
+Email: tyra.robinson05@gmail.com
